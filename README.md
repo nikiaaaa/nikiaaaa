@@ -27,7 +27,7 @@
 
 Instead of clicking the same screens over and over, I started **learning programming by solving my own work problems** — with AI as my mentor.
 
-Currently, I'm building **SAKATO WATCH** (a Tampermonkey userscript for unified ATM monitoring) and **SOVA** (a Python/PySide6 desktop app for photo location & time watermarks), while learning **JavaScript, Python, and Google Apps Script**.
+Currently, I'm building **SORA Studio**, a Claude Code-powered short-video studio where 14 AI agents work in 7 paired divisions, plus **SAKATO WATCH** (a Tampermonkey userscript for unified ATM monitoring) and **SOVA** (a Python/PySide6 desktop app for photo location & time watermarks), while learning **JavaScript, Python, and Google Apps Script**.
 
 My goal is simple: automate the boring stuff, build tools people actually use, and grow into a software engineer who ships things that last.
 
@@ -46,6 +46,14 @@ My goal is simple: automate the boring stuff, build tools people actually use, a
       <p><code>JavaScript</code> · <code>Tampermonkey</code> · <code>Web Audio</code></p>
     </td>
     <td width="50%" valign="top">
+      <h3>🔥 SORA Studio</h3>
+      <p>An automated short-video studio run by one orchestrator and 14 AI agents in 7 paired divisions. Every video passes three human gates, and the voice-over is always made by hand in ElevenLabs.</p>
+      <p><code>Claude Code</code> · <code>Remotion</code> · <code>three.js</code> · <code>Python</code> · <code>FFmpeg</code></p>
+      <p><a href="https://github.com/nikiaaaa/Hell-">View repo →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>📸 SOVA</h3>
       <p>A Windows desktop app that stamps <b>location &amp; time</b> onto field photos, using a coordinates sheet of ATM sites so reports look clean and consistent.</p>
       <p><code>Python</code> · <code>PySide6</code> · <code>Excel</code></p>
@@ -53,7 +61,7 @@ My goal is simple: automate the boring stuff, build tools people actually use, a
   </tr>
 </table>
 
-<p align="center"><sub>Both projects are private for now — more to come.</sub></p>
+<p align="center"><sub>SORA Studio is public. SAKATO WATCH and SOVA are private for now. More to come.</sub></p>
 
 <p align="center"><img src="./assets/divider.gif" alt="" width="100%" /></p>
 
