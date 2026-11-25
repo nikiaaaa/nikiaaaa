@@ -58,10 +58,30 @@ My goal is simple: automate the boring stuff, build tools people actually use, a
       <p>A Windows desktop app that stamps <b>location &amp; time</b> onto field photos, using a coordinates sheet of ATM sites so reports look clean and consistent.</p>
       <p><code>Python</code> · <code>PySide6</code> · <code>Excel</code></p>
     </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ TechSO</h3>
+      <p>A field-service operations platform for ATM/CRM maintenance: scheduler-assigned dispatch, SLA monitoring, a live technician map, evidence-backed reports, and a technician mobile app with offline support. Demo data only.</p>
+      <p><code>FastAPI</code> · <code>React</code> · <code>TypeScript</code> · <code>SQLAlchemy</code></p>
+      <p><a href="https://github.com/nikiaaaa/Tech-SO">View repo →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 Cartoon Short Director</h3>
+      <p>A Claude skill that directs a vertical cartoon short from idea to script to per-scene plan to ready-to-paste scene prompts.</p>
+      <p><code>Claude Skill</code> · <code>Prompting</code> · <code>Storyboarding</code></p>
+      <p><a href="https://github.com/nikiaaaa/cartoon-short-director">View repo →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧊 Cartoon 3D Short</h3>
+      <p>A Claude skill that renders ~60 s vertical cartoon stories: 2D bean-head characters in a 3D world, with synthesized SFX and music. Based on an MIT-licensed project.</p>
+      <p><code>Claude Skill</code> · <code>Remotion</code> · <code>three.js</code> · <code>FFmpeg</code></p>
+      <p><a href="https://github.com/nikiaaaa/carrtoon-3d-short">View repo →</a></p>
+    </td>
   </tr>
 </table>
 
-<p align="center"><sub>SORA Studio is public. SAKATO WATCH and SOVA are private for now. More to come.</sub></p>
+<p align="center"><sub>SORA Studio, TechSO, and the two Claude skills are public. SAKATO WATCH and SOVA are private for now. More to come.</sub></p>
 
 <p align="center"><img src="./assets/divider.gif" alt="" width="100%" /></p>
 
